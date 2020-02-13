@@ -56,7 +56,7 @@ Part 0: Imports, Settings and switches, Global functions\
 -Random Forest Regressor\
 -KNN Regressor\
 -baed on RMSE metric, compare performance of the regressors with their optimized parameters,
-then explore correlation of the predictions and make submission with mean of best models\
+then explore correlation of the predictions and make submission with mean of best models.\
 -Comparison plot: RMSE of all models\
 -Correlation of model results\
 -Mean of best models.
