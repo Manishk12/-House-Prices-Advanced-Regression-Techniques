@@ -14,9 +14,9 @@ Following approaches and techniques i applied:\
 # My notebook is organized as follows:
 
 Part 0: Imports, Settings and switches, Global functions\
-import libraries\
-settings for number of cross validations\
-define functions that are used often\
+-import libraries\
+-settings for number of cross validations\
+-define functions that are used often
 
 # Part 1: Exploratory Data Analysis
 ## 1.1 Get an overview of the features (numerical and categorical) and first look on the target variable SalePrice
