@@ -4,12 +4,12 @@ Predict sales prices and practice using feature engineering, RFs, and gradient b
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 # My Approach
 Following approaches and techniques i applied:\
-EDA with Pandas and Seaborn.<br/>
-Find features with strong correlation to target.<br/>
-Data Wrangling, convert categorical to numerical.
-Apply the basic Regression models of sklearn
-use gridsearchCV to find the best parameters for each model
-compare the performance of the Regressors and choose best one
+-EDA with Pandas and Seaborn.<br/>
+-Find features with strong correlation to target.<br/>
+-Data Wrangling, convert categorical to numerical.\
+-Apply the basic Regression models of sklearn.\
+-Use gridsearchCV to find the best parameters for each mode.\
+-Compare the performance of the Regressors and choose best one.\
 
 # My notebook is organized as follows:
 
