@@ -5,8 +5,8 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 # My Approach
  Following approaches and techniques i applied:
 
-EDA with Pandas and Seaborn
-Find features with strong correlation to target
+EDA with Pandas and Seaborn.
+Find features with strong correlation to target.
 Data Wrangling, convert categorical to numerical
 apply the basic Regression models of sklearn
 use gridsearchCV to find the best parameters for each model
